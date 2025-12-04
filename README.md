@@ -1,1 +1,4 @@
-# orderlyverse
+fastapi
+uvicorn[standard]
+google-auth-oauthlib
+google-api-python-client
